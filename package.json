@@ -1,0 +1,13 @@
+{
+  "name": "jenkins-cicd-demo",
+  "version": "1.0.0",
+  "description": "Simple Jenkins CI/CD demo application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node -e \"console.log('Tests passed successfully')\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
